@@ -49,8 +49,9 @@ Chris Manning   https://nlp.stanford.edu/~manning/
 
 ## 课表
 
-第一课 [本地链接]()
+第一课
 [youtube链接](https://www.youtube.com/watch?v=P127jhj-8-Y)
-[字幕链接]()
+[字幕链接](https://github.com/wingwong0015/CS25-Transformers-United/blob/main/Videos/CS25_I_Stanford_Seminar_Transformers_United_DL_Models_that%20have_revolutionized_NLP_CV_%20RL.srt)
+
 
 
