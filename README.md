@@ -49,9 +49,20 @@ Chris Manning   https://nlp.stanford.edu/~manning/
 
 ## 课表
 
-第一课
+第一课 Introduction to Transformers
+
 [youtube链接](https://www.youtube.com/watch?v=P127jhj-8-Y)
+
 [字幕链接](https://github.com/wingwong0015/CS25-Transformers-United/blob/main/Videos/CS25_I_Stanford_Seminar_Transformers_United_DL_Models_that%20have_revolutionized_NLP_CV_%20RL.srt)
+
+[哔哩哔哩链接](待补充)
+
+课程材料
+
+[attention is all you need]()
+
+
+
 
 
 
