@@ -59,7 +59,13 @@ Chris Manning   https://nlp.stanford.edu/~manning/
 
 课程材料
 
-[attention is all you need]()
+[attention is all you need](Lectures/Lecture1/NIPS-2017-attention-is-all-you-need-Paper.pdf)
+
+[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+
+[The Annotated Transformer (Assignment)](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
+
 
 
 
