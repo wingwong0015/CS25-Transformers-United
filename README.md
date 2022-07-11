@@ -55,13 +55,14 @@ Chris Manning   https://nlp.stanford.edu/~manning/
 
 [字幕链接](https://github.com/wingwong0015/CS25-Transformers-United/blob/main/Videos/CS25_I_Stanford_Seminar_Transformers_United_DL_Models_that%20have_revolutionized_NLP_CV_%20RL.srt)
 
-[哔哩哔哩链接](待补充)
+[哔哩哔哩链接](https://www.bilibili.com/video/BV16U4y1D7Do/?vd_source=8ff3b947d623f523844db359983cb89d)
 
 课程材料
 
 [attention is all you need](Lectures/Lecture1/NIPS-2017-attention-is-all-you-need-Paper.pdf)
 
 [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+[视频链接](https://www.bilibili.com/video/av338884709?vd_source=8ff3b947d623f523844db359983cb89d)
 
 [The Annotated Transformer (Assignment)](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
